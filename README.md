@@ -21,6 +21,7 @@ View The Project: https://m074med.github.io/Bootstrap_and_jQuery_Template/
 ######  -jQuery
 ######  -Bootstrap
 ######  -React JS
+######  -C++
 ######  -Git & GitHub
 ######  -Command Line
 ######  -Linux
