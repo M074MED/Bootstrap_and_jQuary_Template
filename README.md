@@ -13,6 +13,7 @@ View The Project: https://m074med.github.io/Bootstrap_and_jQuery_Template/
 #### My Technical Skills:
 ######  -Python
 ######  -Django
+######  -MySQL
 ######  -oop
 ######  -Web Scraping (with Python Beautiful Soup)
 ######  -HTML
